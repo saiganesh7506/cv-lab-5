@@ -77,3 +77,6 @@ The notebook displays three images:
 ## Author
 
 Computer Vision Lab Project
+
+<img width="1189" height="887" alt="image" src="https://github.com/user-attachments/assets/c600ebe1-71a9-4d3d-b3d6-c05b636696b7" />
+
