@@ -74,9 +74,9 @@ The notebook displays three images:
 * `README.md` – Project documentation
 * `.ipynb` – Python implementation of image slicing
 
-## Author
+## output
 
-Computer Vision Lab Project
+Computer Vision Lab output
+<img width="1166" height="490" alt="image" src="https://github.com/user-attachments/assets/5da99450-c7bb-4f05-92e1-c610d9883479" />
 
-<img width="1189" height="887" alt="image" src="https://github.com/user-attachments/assets/c600ebe1-71a9-4d3d-b3d6-c05b636696b7" />
 
